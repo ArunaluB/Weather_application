@@ -37,20 +37,3 @@ Go to the project directory
 
 Open with VSCode
 
-```bash
-  code .
-```
-
-Open with live server
-
-```
-
-
-## Authors
-
-
-## License
-
-
-
-## Support
